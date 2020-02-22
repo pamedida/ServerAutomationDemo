@@ -6,7 +6,7 @@ trigger:
     include:
       - server.json
       - server.parameters.json
-
+# adding a comment
 pool:
   vmImage: "ubuntu-latest"
 
